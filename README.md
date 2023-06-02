@@ -1,36 +1,35 @@
-# Typecho-Replit
-
+# Typecho_Replit
 在Replit部署Typecho博客 + [Butterfly主题移植](https://blog.wehaox.com/archives/typecho-butterfly.html#cl-3 )
 附带插件
-[LoginDesigner](https://github.com/jrotty/LoginDesigner)
-[Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)
-[DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)
+[LoginDesigner](https://github.com/jrotty/LoginDesigner)</br>
+[Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)</br>
+[DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)</br>
 
-
+### 个人版（不推荐）：
 ### 安装（推荐教育版）：
-
+<a href="https://repl.it/github/super-yan86/Typecho_Replit">
+  <img alt="Run on Repl.it" src="https://repl.it/badge/github/super-yan86/Typecho_Replit" style="height: 40px; width: 190px;" />
+</a>
 将以下代码粘贴至Replit Shell后回车
 
-`git clone https://github.com/Sayafx/typechonreplit.git && mv -b typechonreplit/* ./ && mv -b typechonreplit/.[^.]* ./ && rm -rf *~ && rm -rf typechonreplit`
+`git clone https://github.com/super-yan86/Typecho_Replit.git && mv -b Typecho_Replit/* ./ && mv -b Typecho_Replit/.[^.]* ./ && rm -rf *~ && rm -rf Typecho_Replit`
 
 当加载完 Detected change in environment, reloading shell...
 在Shell输入`sh main.sh`初始化，初始化完成后点击绿色 ▶ Run 运行
 
-默认请使用原生sqlite数据库
-
 修改自[valetzx/typechonreplit](https://github.com/valetzx/typechonreplit)
+默认请使用原生sqlite数据库
+postgresql数据库版：[super-yan86/typecho_replit_pgsql](https://github.com/super-yan86/typecho_replit_pgsql)
 
-# 修改内容
+/**# 修改内容
 
-原作者Butterfly主题移植地址失效，已更改
 添加了下列插件
 
 - [LoginDesigner](https://github.com/jrotty/LoginDesigner)
 - [Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)
 - [DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)
 
-
-
+<!--
 # 关于图床
 
 ## 推荐使用 PicGo + bilibili 图床
@@ -79,4 +78,4 @@ Snow插件推荐设置，观感较好。
 ![Snow设置](https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/dafa22094fc8129879ee352d2763bd41299108a8.png)
 
 [博客原址](https://syblog.repl.co/index.php/archives/3/)
-
+-->
