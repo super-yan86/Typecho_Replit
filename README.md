@@ -19,9 +19,9 @@
 当加载完 Detected change in environment, reloading shell...
 在Shell输入`sh main.sh`初始化，初始化完成后点击绿色 ▶ Run 运行
 
-修改自[valetzx/typechonreplit](https://github.com/valetzx/typechonreplit)</br>
 默认请使用原生sqlite数据库</br>
-postgresql数据库版：[super-yan86/typecho_replit_pgsql](https://github.com/super-yan86/typecho_replit_pgsql)
+postgresql数据库版：[super-yan86/typecho_replit_pgsql](https://github.com/super-yan86/typecho_replit_pgsql)</br>
+修改自[valetzx/typechonreplit](https://github.com/valetzx/typechonreplit)
 
 # 修改内容
 
