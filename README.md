@@ -9,7 +9,7 @@
 ### 安装（推荐教育版）：
 <a href="https://repl.it/github/super-yan86/Typecho_Replit">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/super-yan86/Typecho_Replit" style="height: 40px; width: 190px;" />
-</a>
+</a></br>
 将以下代码粘贴至Replit Shell后回车
 
 ```git
