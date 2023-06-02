@@ -22,8 +22,8 @@
 -----------------------------------------------------------------------------------------------------------------
 
 默认请使用原生sqlite数据库</br>
-  postgresql数据库版：[super-yan86/Typecho_Replit_pgsql](https://github.com/super-yan86/Typecho_Replit_pgsql)</br>
-修改自[valetzx/typechonreplit](https://github.com/valetzx/typechonreplit)
+postgresql数据库版：[https://github.com/super-yan86/Typecho_Replit_pgsql](https://github.com/super-yan86/Typecho_Replit_pgsql)</br>
+修改自：[https://github.com/valetzx/typechonreplit](https://github.com/valetzx/typechonreplit)
 
 # 修改内容
 
@@ -32,6 +32,7 @@
 - [LoginDesigner](https://github.com/jrotty/LoginDesigner)
 - [Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)
 - [DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)
+
 
 <!--
 # 关于图床
