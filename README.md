@@ -5,7 +5,7 @@
 - [Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)</br>
 - [DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)</br>
 
-不装插件的话可以用注释代码"<!--xxxxx-->"将 <b>main.sh</b> 以下内容替换：</br>
+不装插件的话可以用注释代码将 <b>main.sh</b> 以下内容替换：</br>
 ```bash
 <!--
 # 回到根目录
