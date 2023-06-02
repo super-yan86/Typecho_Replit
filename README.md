@@ -4,8 +4,9 @@
 - [LoginDesigner](https://github.com/jrotty/LoginDesigner)</br>
 - [Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)</br>
 - [DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)</br>
-不装插件的话可以用注释代码将以下内容替换：</br>
 
+不装插件的话可以用注释代码将以下内容替换：</br>
+````
 ```bash
 <!--
 # 回到根目录
@@ -31,6 +32,7 @@ cd DynamicLines
 git clone https://github.com/Sayafx/DynamicLines-typecho-plugin.git && mv -b DynamicLines-typecho-plugin/* ./ && mv -b DynamicLines-typecho-plugin/.[^.]* ./ && rm -rf *~ && rm -rf DynamicLines-typecho-plugin
 -->
 ```
+````
 
 ### 个人版（不推荐）：
 ### 教育版 安装：
