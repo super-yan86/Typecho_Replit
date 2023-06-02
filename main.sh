@@ -10,7 +10,6 @@ unzip butterfly_Release1.7.5.zip
 #after download if you dont have reCAPTCHA plugin del file usr/themes/butterfly/functions.php line 1528-1529 
 rm -rf butterfly_Release1.7.5.zip
 
-<!--
 # 回到根目录
 cd ../
 
@@ -32,4 +31,4 @@ cd ../
 mkdir DynamicLines
 cd DynamicLines
 git clone https://github.com/Sayafx/DynamicLines-typecho-plugin.git && mv -b DynamicLines-typecho-plugin/* ./ && mv -b DynamicLines-typecho-plugin/.[^.]* ./ && rm -rf *~ && rm -rf DynamicLines-typecho-plugin
--->
+
