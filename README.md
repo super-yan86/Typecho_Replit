@@ -5,7 +5,7 @@
 - [Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)</br>
 - [DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)</br>
 
-不装插件的话可以用注释代码将 <b>main.sh</b> 以下内容注释掉即可：</br>
+<b>不装插件的话可以用注释代码将 <b>main.sh</b> 以下内容注释掉即可：</b></br>
 ```bash
 <!--
 # 回到根目录
@@ -33,7 +33,7 @@ git clone https://github.com/Sayafx/DynamicLines-typecho-plugin.git && mv -b Dyn
 ```
 
 ### 个人版（不推荐）：
-### 教育版 安装：
+### 教育版(Team) 安装：
 <a href="https://repl.it/github/super-yan86/Typecho_Replit">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/super-yan86/Typecho_Replit" style="height: 40px; width: 190px;" />
 </a></br>
