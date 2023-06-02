@@ -4,6 +4,33 @@
 - [LoginDesigner](https://github.com/jrotty/LoginDesigner)</br>
 - [Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)</br>
 - [DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)</br>
+不装插件的话可以用注释代码将以下内容替换：</br>
+
+```bash
+<!--
+# 回到根目录
+cd ../
+
+# Snow 插件
+cd plugins
+mkdir Snow
+cd Snow
+git clone https://github.com/journey-ad/Snow-Typecho-Plugin.git && mv -b Snow-Typecho-Plugin/* ./ && mv -b Snow-Typecho-Plugin/.[^.]* ./ && rm -rf *~ && rm -rf Snow-Typecho-Plugin
+
+# 登录美化
+cd ../
+mkdir LoginDesigner
+cd LoginDesigner
+git clone https://github.com/Sayafx/LoginDesigner/ && mv -b LoginDesigner/* ./ && mv -b LoginDesigner/.[^.]* ./ && rm -rf *~ && rm -rf LoginDesigner
+
+# 蛛网
+
+cd ../
+mkdir DynamicLines
+cd DynamicLines
+git clone https://github.com/Sayafx/DynamicLines-typecho-plugin.git && mv -b DynamicLines-typecho-plugin/* ./ && mv -b DynamicLines-typecho-plugin/.[^.]* ./ && rm -rf *~ && rm -rf DynamicLines-typecho-plugin
+-->
+```
 
 ### 个人版（不推荐）：
 ### 教育版 安装：
