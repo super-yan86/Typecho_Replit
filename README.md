@@ -13,7 +13,7 @@
 将以下代码粘贴至Replit Shell后回车
 
 ```git
-  git clone https://github.com/super-yan86/Typecho_Replit.git && mv -b Typecho_Replit/* ./ && mv -b Typecho_Replit/.[^.]* ./ && rm -rf *~ && rm -rf Typecho_Replit
+  git clone https://github.com/super-yan86/Typecho_Replit_pgsql.git && mv -b Typecho_Replit_pgsql/* ./ && mv -b Typecho_Replit_pgsql/.[^.]* ./ && rm -rf *~ && rm -rf Typecho_Replit_pgsql
 ```
 
 当加载完 Detected change in environment, reloading shell...
@@ -22,7 +22,7 @@
 -----------------------------------------------------------------------------------------------------------------
 
 默认请使用原生sqlite数据库</br>
-postgresql数据库版：[super-yan86/typecho_replit_pgsql](https://github.com/super-yan86/typecho_replit_pgsql)</br>
+  postgresql数据库版：[super-yan86/Typecho_Replit_pgsql](https://github.com/super-yan86/Typecho_Replit_pgsql)</br>
 修改自[valetzx/typechonreplit](https://github.com/valetzx/typechonreplit)
 
 # 修改内容
