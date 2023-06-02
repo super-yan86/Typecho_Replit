@@ -6,7 +6,7 @@
 - [DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)</br>
 
 ### 个人版（不推荐）：
-### 安装（推荐教育版）：
+### 教育版 安装：
 <a href="https://repl.it/github/super-yan86/Typecho_Replit">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/super-yan86/Typecho_Replit" style="height: 40px; width: 190px;" />
 </a></br>
