@@ -1,9 +1,9 @@
 # Typecho_Replit
 在Replit部署Typecho博客 + [Butterfly主题移植](https://blog.wehaox.com/archives/typecho-butterfly.html#cl-3 )</br>
 附带插件</br>
-[LoginDesigner](https://github.com/jrotty/LoginDesigner)</br>
-[Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)</br>
-[DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)</br>
+- [LoginDesigner](https://github.com/jrotty/LoginDesigner)</br>
+- [Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)</br>
+- [DynamicLines-typecho-plugin](https://github.com/1379/DynamicLines-typecho-plugin)</br>
 
 ### 个人版（不推荐）：
 ### 安装（推荐教育版）：
