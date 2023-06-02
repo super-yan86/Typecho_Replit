@@ -12,7 +12,9 @@
 </a>
 将以下代码粘贴至Replit Shell后回车
 
-```git clone https://github.com/super-yan86/Typecho_Replit.git && mv -b Typecho_Replit/* ./ && mv -b Typecho_Replit/.[^.]* ./ && rm -rf *~ && rm -rf Typecho_Replit```
+```git
+  git clone https://github.com/super-yan86/Typecho_Replit.git && mv -b Typecho_Replit/* ./ && mv -b Typecho_Replit/.[^.]* ./ && rm -rf *~ && rm -rf Typecho_Replit
+```
 
 当加载完 Detected change in environment, reloading shell...
 在Shell输入`sh main.sh`初始化，初始化完成后点击绿色 ▶ Run 运行
