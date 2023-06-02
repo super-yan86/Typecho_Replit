@@ -40,7 +40,7 @@ git clone https://github.com/Sayafx/DynamicLines-typecho-plugin.git && mv -b Dyn
 将以下代码粘贴至Replit Shell后回车
 
 ```git
-  git clone https://github.com/super-yan86/Typecho_Replit_pgsql.git && mv -b Typecho_Replit_pgsql/* ./ && mv -b Typecho_Replit_pgsql/.[^.]* ./ && rm -rf *~ && rm -rf Typecho_Replit_pgsql
+  git clone https://github.com/super-yan86/Typecho_Replit.git && mv -b Typecho_Replit/* ./ && mv -b Typecho_Replit/.[^.]* ./ && rm -rf *~ && rm -rf Typecho_Replit
 ```
 
 当加载完 Detected change in environment, reloading shell...
