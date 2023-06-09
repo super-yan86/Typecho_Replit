@@ -1,5 +1,7 @@
 # Typecho_Replit
 在Replit部署Typecho博客 + [Butterfly主题移植](https://blog.wehaox.com/archives/typecho-butterfly.html#cl-3 )</br>
+大前端主题</br>
+- [Typecho-theme-DUX](https://wwfx.lanzouw.com/iSRQF0yqeglc) 密码:bt0m  </br>
 附带插件</br>
 - [LoginDesigner](https://github.com/jrotty/LoginDesigner)</br>
 - [Snow-Typecho-Plugin](https://github.com/journey-ad/Snow-Typecho-Plugin)</br>
